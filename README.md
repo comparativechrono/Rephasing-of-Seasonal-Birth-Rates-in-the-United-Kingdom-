@@ -9,7 +9,7 @@ This repository contains all code, data, and notebooks used for the analysis in:
 
 ## 📂 Repository Structure
 
-- **`figure-notebooks/`**  
+- **`Figures/`**  
   Notebooks used to generate each figure in the paper. Fully reproducible and self-contained.
 
 - **`lab-book/`**  
