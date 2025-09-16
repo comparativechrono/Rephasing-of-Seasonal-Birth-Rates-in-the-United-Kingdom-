@@ -3,7 +3,7 @@
 This repository contains all code, data, and notebooks used for the analysis in:
 
 > **Hearn and Whitmore**  
-> *"Rephasing of Seasonal Birth Rates in the United Kingdom and its Implications for Chronobiological Studies"*
+> *"An Abrupt Mid-1970s Shift in UK Birth Seasonality and its Implications for Chronobiological Studies"*
 
 ---
 
